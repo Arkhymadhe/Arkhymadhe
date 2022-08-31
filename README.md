@@ -8,7 +8,9 @@ Data Scientist and Machine Learning Engineer
 *   ✉️  You can contact me at [emoekabuoshomah@gmail.com](mailto:emoekabuoshomah@gmail.com)
 *   🧠  I'm learning how to design my own architectures for Generative Adversarial Networks (GANs). I'm also playing around with recent advances in convolutional neural networks, including SPD-Convolutions and Essence Neural Networks.
 *   🤝  I'm open to collaborating on any interesting and meaningful projects.
-*   ⚡  I'm a sporting enthusiast, specifically for boxing and MMA. For some reason, I really love Mohammed Ali, even though I'm far too young to have ever seen him fight. Weird, I know.### Skills<p align="left">
+*   ⚡  I'm a sporting enthusiast, specifically for boxing and MMA. For some reason, I really love Mohammed Ali, even though I'm far too young to have ever seen him fight. Weird, I know.
+
+### Skills<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -17,10 +19,7 @@ Data Scientist and Machine Learning Engineer
                                 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
                     </p>
                     
-                  ### Socials
-                  
-                  
-                <p align="left">
+### Socials<p align="left">
                           
                       <a href="https://www.dev.to/harkhymadhe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
                           
