@@ -6,7 +6,7 @@ Data Scientist and Machine Learning Engineer
 
 *   🌍  I'm based in Benin-City, Nigeria.
 *   ✉️  You can contact me at [emoekabuoshomah@gmail.com](mailto:emoekabuoshomah@gmail.com)
-*   🧠  I'm learning how to design my own architectures for Generative Adversarial Networks (GANs) from scratch. I'm also playing around with recent advances in convolutional neural networks, including SPD-Convolutions and Essence Neural Networks. I am also presently collaborating on a number of cool, interesting projects at the moment.
+*   🧠  I'm presently educating myself on bioinformatics, nanotech, and the biomedical sciences. I am also presently collaborating on a number of cool, interesting projects at the moment.
 *   🤝  I'm open to collaborating on any interesting and meaningful projects.
 *   ⚡  I'm a sporting enthusiast, specifically for boxing and MMA. For some reason, I really love Mohammed Ali, even though I'm far too young to have ever seen him fight. Weird, I know.
 
@@ -14,11 +14,8 @@ Data Scientist and Machine Learning Engineer
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
   </p>
                     
 ### Socials
